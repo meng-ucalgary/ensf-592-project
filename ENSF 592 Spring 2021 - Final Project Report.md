@@ -1,10 +1,10 @@
-## ENSF 592 Spring 2021 - Final Project Report
+# ENSF 592 Spring 2021 - Final Project Report
 
 * Authors: Bhavyai Gupta, Brandon Attai
 * Date: 2021-06-15
 * Course: ENSF 592
 
-# Summary 
+## Summary 
 This program allows a user to request, select or visualize various statistics surrounding United Nations Data to give insight into population and wealth trends for UN Regions, Sub-Regions and Countries. To achieve this, a total of four Datasets were used as follows:
 
 * UN Region, Sub-Region and Country
@@ -26,7 +26,7 @@ The user is then prompted to enter the program menu. Once entered, the user has 
 
 The program makes use of object-oriented programming by using classes and methods to handle data analysis and calculations. Finally, exception handling is performed throughout the program to ensure the program does not terminate if the user enters an invalid input. 
 
-# References
+## References
 1. UN Region, Sub-Region and Country, Development Data Section of the Development Data and Outreach Branch within the Statistics Division of the Department of Economic and Social Affairs (UN DESA) of the UN Secretariat, June 2019. [Online]. Available:
 https://data.un.org/_Docs/SYB/CSV/SYB63_1_202105_Population,%20Surface%20Area%20and%20Density.csv
 
