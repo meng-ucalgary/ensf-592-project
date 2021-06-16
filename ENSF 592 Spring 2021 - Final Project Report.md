@@ -1,7 +1,8 @@
 ## ENSF 592 Spring 2021 - Final Project Report
-Authors: Bhavyai Gupta, Brandon Attai
-Date: 2021-06-15
-Course: ENSF 592
+
+* Authors: Bhavyai Gupta, Brandon Attai
+* Date: 2021-06-15
+* Course: ENSF 592
 
 # Summary 
 This program allows a user to request, select or visualize various statistics surrounding United Nations Data to give insight into population and wealth trends for UN Regions, Sub-Regions and Countries. To achieve this, a total of four Datasets were used as follows:
